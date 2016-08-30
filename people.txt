@@ -1,0 +1,10 @@
+< a a a d >
+[ Height Hair Eyes Attractiveness ]
+short blond blue plus
+tall blond brown minus
+tall red blue plus
+short dark blue minus
+tall dark blue minus
+tall blond blue plus
+tall dark brown minus
+short blond brown minus

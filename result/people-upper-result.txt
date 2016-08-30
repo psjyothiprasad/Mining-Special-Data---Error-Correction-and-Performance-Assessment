@@ -1,0 +1,8 @@
+(2, 2, 2)
+(Eyes, blue) & (Hair, blond) -> plus
+(1, 1, 1)
+(Hair, red) -> plus
+(1, 3, 3)
+(Hair, dark) -> minus
+(1, 3, 3)
+(Eyes, brown) -> minus

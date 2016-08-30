@@ -1,0 +1,6 @@
+(1, 50, 50)
+(petal_width, 0.1..1) -> Iris-setosa
+(1, 12, 12)
+(sepal_length, 7.1..7.9) -> Iris-viginica
+(3, 39, 39)
+(sepal_length, 5.4..7.1) & (petal_length, 1..4.8) & (petal_width, 1..2.5) -> Iris-versicolor
